@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: ff990cc241bd3e340b33a04212d81df7
+timeCreated: 1458500104
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: fe6eaac030cc2eacd1e60ec749039c52
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.206585, y: 10.324841, z: 27.062809}
+      lookAt: {x: -0.030361693, y: -5.2434115, z: 44.149734}
+      up: {x: -0.27549002, y: 0.77298915, z: 0.5714833}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 2
+    100006: Component#2
+    100008: Component#2 1
+    100010: Component#2 2
+    100012: Component#3
+    100014: Component#3 1
+    100016: Component#3 2
+    100018: Piano
+    100020: //RootNode
+    100022: SAMICK
+    100024: Sang
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 2
+    400006: Component#2
+    400008: Component#2 1
+    400010: Component#2 2
+    400012: Component#3
+    400014: Component#3 1
+    400016: Component#3 2
+    400018: Piano
+    400020: //RootNode
+    400022: SAMICK
+    400024: Sang
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 2
+    2300006: Component#2
+    2300008: Component#2 1
+    2300010: Component#2 2
+    2300012: Component#3
+    2300014: Component#3 1
+    2300016: Component#3 2
+    2300018: //RootNode
+    2300020: SAMICK
+    2300022: Sang
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 2
+    3300006: Component#2
+    3300008: Component#2 1
+    3300010: Component#2 2
+    3300012: Component#3
+    3300014: Component#3 1
+    3300016: Component#3 2
+    3300018: //RootNode
+    3300020: SAMICK
+    3300022: Sang
+    4300000: Mesh piano+6
+    4300002: Mesh Sang
+    4300004: Mesh Component#1
+    4300006: Mesh Component#2
+    4300008: Mesh Component#3
+    4300010: Mesh SAMICK
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

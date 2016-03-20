@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: e20f43fae96a9bd45b4c48a3cf75aac1
+timeCreated: 1458500067
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000250000002600000027000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c31aca1b879fa9483b65a43bca003eb2
+  longitude: 12.5
+  latitude: 41.883
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.409821, y: 1.1127526, z: 0.33454147}
+      lookAt: {x: -0.59621847, y: -4.383276, z: 2.1265447}
+      up: {x: -0.7245367, y: 0.53711337, z: 0.43192118}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: biscaro
+    100002: biscaro#1
+    100004: biscaro#2
+    100006: biscaro#3
+    100008: bottone
+    100010: cordiera
+    100012: Group 1
+    100014: Group 10
+    100016: Group 13
+    100018: Group 14
+    100020: Group 16
+    100022: Group 18
+    100024: Group 2
+    100026: Group 21
+    100028: Group 23
+    100030: Group 25
+    100032: Group 3
+    100034: Group 30
+    100036: Group 5
+    100038: Group 7
+    100040: Group 9
+    100042: mentoniera
+    100044: mentoniera#1
+    100046: reggicordiera
+    100048: //RootNode
+    400000: biscaro
+    400002: biscaro#1
+    400004: biscaro#2
+    400006: biscaro#3
+    400008: bottone
+    400010: cordiera
+    400012: Group 1
+    400014: Group 10
+    400016: Group 13
+    400018: Group 14
+    400020: Group 16
+    400022: Group 18
+    400024: Group 2
+    400026: Group 21
+    400028: Group 23
+    400030: Group 25
+    400032: Group 3
+    400034: Group 30
+    400036: Group 5
+    400038: Group 7
+    400040: Group 9
+    400042: mentoniera
+    400044: mentoniera#1
+    400046: reggicordiera
+    400048: //RootNode
+    2300000: biscaro
+    2300002: biscaro#1
+    2300004: biscaro#2
+    2300006: biscaro#3
+    2300008: Group 10
+    2300010: Group 14
+    2300012: Group 16
+    2300014: Group 18
+    2300016: Group 21
+    2300018: Group 23
+    2300020: Group 25
+    2300022: Group 3
+    2300024: Group 30
+    2300026: Group 5
+    2300028: reggicordiera
+    3300000: biscaro
+    3300002: biscaro#1
+    3300004: biscaro#2
+    3300006: biscaro#3
+    3300008: Group 10
+    3300010: Group 14
+    3300012: Group 16
+    3300014: Group 18
+    3300016: Group 21
+    3300018: Group 23
+    3300020: Group 25
+    3300022: Group 3
+    3300024: Group 30
+    3300026: Group 5
+    3300028: reggicordiera
+    4300000: Mesh Group 3
+    4300002: Mesh Group 5
+    4300004: Mesh Group 10
+    4300006: Mesh Group 14
+    4300008: Mesh Group 16
+    4300010: Mesh Group 18
+    4300012: Mesh Group 21
+    4300014: Mesh Group 23
+    4300016: Mesh Group 25
+    4300018: Mesh reggicordiera
+    4300020: Mesh Group 30
+    4300022: Mesh biscaro
+    4300024: Mesh biscaro#2
+    4300026: Mesh biscaro#3
+    4300028: Mesh biscaro#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

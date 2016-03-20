@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 42fd23e3bc8d6e142ab981bb5405409e
+timeCreated: 1458500132
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff00000000010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 056a10b8c0d8ad6e4466cee9dd3a12b1
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.49857077, y: 1.895871, z: -1.0597485}
+      lookAt: {x: 1.7019032, y: -189.8522, z: 163.33171}
+      up: {x: 0.0055569718, y: 0.6508835, z: 0.7591573}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 0.4910592, y: 1.058778, z: -1.8108456}
+        lookAt: {x: 2.1232595, y: -70.459145, z: 240.42012}
+        up: {x: 0.0019079245, y: 0.9590736, z: 0.28315055}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8ne\_1"
+    - camera:
+        position: {x: 0.49857077, y: 1.895871, z: -1.0597485}
+        lookAt: {x: 1.7019032, y: -189.8522, z: 163.33171}
+        up: {x: 0.0055569718, y: 0.6508835, z: 0.7591573}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8ne\_5"
+    - camera:
+        position: {x: 0.4048752, y: -0.7224872, z: 1.5907755}
+        lookAt: {x: 0.8680086, y: 158.2179, z: -194.70253}
+        up: {x: -0.001484725, y: 0.7771755, z: 0.6292822}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8ne\_2"
+    - camera:
+        position: {x: 0.48093033, y: 0.60308254, z: 2.359392}
+        lookAt: {x: -2.8845887, y: -6.4787574, z: -250.09227}
+        up: {x: -0.00037376076, y: 0.99960685, z: -0.028036248}
+        fov: 30.369423
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8ne\_3"
+    - camera:
+        position: {x: 1.8855745, y: 1.819263, z: -1.5610373}
+        lookAt: {x: -131.93588, y: -136.51805, z: 161.98691}
+        up: {x: -0.34684628, y: 0.83666736, z: 0.42389312}
+        fov: 30.369423
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "Sc\xE8ne\_4"
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "Capot arri\xE8re"
+    100002: Capot avant
+    100004: Clavier
+    100006: "Diff\xE9rence"
+    100008: Encoche pupitre
+    100010: Encoche pupitre 1
+    100012: Feutrine rouge
+    100014: Flanc
+    100016: Flanc 1
+    100018: Group 11
+    100020: Group 186
+    100022: Group 190
+    100024: Group 200
+    100026: Group 205
+    100028: Group 220
+    100030: Group 221
+    100032: Group 223
+    100034: Group 224
+    100036: Group 226
+    100038: Group 228
+    100040: Group 230
+    100042: Group 231
+    100044: Group 233
+    100046: Group 235
+    100048: Group 237
+    100050: Group 238
+    100052: Group 239
+    100054: Group 241
+    100056: Group 243
+    100058: Group 245
+    100060: Group 247
+    100062: Group 248
+    100064: Group 249
+    100066: Group 251
+    100068: Group 253
+    100070: Group 255
+    100072: Group 4
+    100074: Group 6
+    100076: Group 9
+    100078: K&M 18810
+    100080: KAWAI VPC1
+    100082: //RootNode
+    100084: ON_OFF_LED
+    100086: Patin
+    100088: Patin 1
+    100090: Patin 2
+    100092: Patin 3
+    100094: Pupitre
+    100096: Socle
+    100098: Tecla1\#1
+    100100: Tecla1\#1 1
+    100102: Tecla1\#1 10
+    100104: Tecla1\#1 11
+    100106: Tecla1\#1 12
+    100108: Tecla1\#1 13
+    100110: Tecla1\#1 2
+    100112: Tecla1\#1 3
+    100114: Tecla1\#1 4
+    100116: Tecla1\#1 5
+    100118: Tecla1\#1 6
+    100120: Tecla1\#1 7
+    100122: Tecla1\#1 8
+    100124: Tecla1\#1 9
+    100126: Tecla2#1
+    100128: Tecla2#1 1
+    100130: Tecla2#1 10
+    100132: Tecla2#1 11
+    100134: Tecla2#1 12
+    100136: Tecla2#1 13
+    100138: Tecla2#1 14
+    100140: Tecla2#1 2
+    100142: Tecla2#1 3
+    100144: Tecla2#1 4
+    100146: Tecla2#1 5
+    100148: Tecla2#1 6
+    100150: Tecla2#1 7
+    100152: Tecla2#1 8
+    100154: Tecla2#1 9
+    100156: Tecla3#1
+    100158: Tecla3#1 1
+    100160: Tecla3#1 10
+    100162: Tecla3#1 11
+    100164: Tecla3#1 12
+    100166: Tecla3#1 13
+    100168: Tecla3#1 2
+    100170: Tecla3#1 3
+    100172: Tecla3#1 4
+    100174: Tecla3#1 5
+    100176: Tecla3#1 6
+    100178: Tecla3#1 7
+    100180: Tecla3#1 8
+    100182: Tecla3#1 9
+    100184: Tecla4#1
+    100186: Tecla4#1 1
+    100188: Tecla4#1 2
+    100190: Tecla4#1 3
+    100192: Tecla4#1 4
+    100194: Tecla4#1 5
+    100196: Tecla4#1 6
+    100198: TeclaPreta#1
+    100200: TeclaPreta#1 1
+    100202: TeclaPreta#1 10
+    100204: TeclaPreta#1 11
+    100206: TeclaPreta#1 12
+    100208: TeclaPreta#1 13
+    100210: TeclaPreta#1 14
+    100212: TeclaPreta#1 15
+    100214: TeclaPreta#1 16
+    100216: TeclaPreta#1 17
+    100218: TeclaPreta#1 18
+    100220: TeclaPreta#1 19
+    100222: TeclaPreta#1 2
+    100224: TeclaPreta#1 20
+    100226: TeclaPreta#1 21
+    100228: TeclaPreta#1 22
+    100230: TeclaPreta#1 23
+    100232: TeclaPreta#1 24
+    100234: TeclaPreta#1 25
+    100236: TeclaPreta#1 26
+    100238: TeclaPreta#1 27
+    100240: TeclaPreta#1 28
+    100242: TeclaPreta#1 29
+    100244: TeclaPreta#1 3
+    100246: TeclaPreta#1 30
+    100248: TeclaPreta#1 31
+    100250: TeclaPreta#1 32
+    100252: TeclaPreta#1 33
+    100254: TeclaPreta#1 34
+    100256: TeclaPreta#1 35
+    100258: TeclaPreta#1 4
+    100260: TeclaPreta#1 5
+    100262: TeclaPreta#1 6
+    100264: TeclaPreta#1 7
+    100266: TeclaPreta#1 8
+    100268: TeclaPreta#1 9
+    400000: "Capot arri\xE8re"
+    400002: Capot avant
+    400004: Clavier
+    400006: "Diff\xE9rence"
+    400008: Encoche pupitre
+    400010: Encoche pupitre 1
+    400012: Feutrine rouge
+    400014: Flanc
+    400016: Flanc 1
+    400018: Group 11
+    400020: Group 186
+    400022: Group 190
+    400024: Group 200
+    400026: Group 205
+    400028: Group 220
+    400030: Group 221
+    400032: Group 223
+    400034: Group 224
+    400036: Group 226
+    400038: Group 228
+    400040: Group 230
+    400042: Group 231
+    400044: Group 233
+    400046: Group 235
+    400048: Group 237
+    400050: Group 238
+    400052: Group 239
+    400054: Group 241
+    400056: Group 243
+    400058: Group 245
+    400060: Group 247
+    400062: Group 248
+    400064: Group 249
+    400066: Group 251
+    400068: Group 253
+    400070: Group 255
+    400072: Group 4
+    400074: Group 6
+    400076: Group 9
+    400078: K&M 18810
+    400080: KAWAI VPC1
+    400082: //RootNode
+    400084: ON_OFF_LED
+    400086: Patin
+    400088: Patin 1
+    400090: Patin 2
+    400092: Patin 3
+    400094: Pupitre
+    400096: Socle
+    400098: Tecla1\#1
+    400100: Tecla1\#1 1
+    400102: Tecla1\#1 10
+    400104: Tecla1\#1 11
+    400106: Tecla1\#1 12
+    400108: Tecla1\#1 13
+    400110: Tecla1\#1 2
+    400112: Tecla1\#1 3
+    400114: Tecla1\#1 4
+    400116: Tecla1\#1 5
+    400118: Tecla1\#1 6
+    400120: Tecla1\#1 7
+    400122: Tecla1\#1 8
+    400124: Tecla1\#1 9
+    400126: Tecla2#1
+    400128: Tecla2#1 1
+    400130: Tecla2#1 10
+    400132: Tecla2#1 11
+    400134: Tecla2#1 12
+    400136: Tecla2#1 13
+    400138: Tecla2#1 14
+    400140: Tecla2#1 2
+    400142: Tecla2#1 3
+    400144: Tecla2#1 4
+    400146: Tecla2#1 5
+    400148: Tecla2#1 6
+    400150: Tecla2#1 7
+    400152: Tecla2#1 8
+    400154: Tecla2#1 9
+    400156: Tecla3#1
+    400158: Tecla3#1 1
+    400160: Tecla3#1 10
+    400162: Tecla3#1 11
+    400164: Tecla3#1 12
+    400166: Tecla3#1 13
+    400168: Tecla3#1 2
+    400170: Tecla3#1 3
+    400172: Tecla3#1 4
+    400174: Tecla3#1 5
+    400176: Tecla3#1 6
+    400178: Tecla3#1 7
+    400180: Tecla3#1 8
+    400182: Tecla3#1 9
+    400184: Tecla4#1
+    400186: Tecla4#1 1
+    400188: Tecla4#1 2
+    400190: Tecla4#1 3
+    400192: Tecla4#1 4
+    400194: Tecla4#1 5
+    400196: Tecla4#1 6
+    400198: TeclaPreta#1
+    400200: TeclaPreta#1 1
+    400202: TeclaPreta#1 10
+    400204: TeclaPreta#1 11
+    400206: TeclaPreta#1 12
+    400208: TeclaPreta#1 13
+    400210: TeclaPreta#1 14
+    400212: TeclaPreta#1 15
+    400214: TeclaPreta#1 16
+    400216: TeclaPreta#1 17
+    400218: TeclaPreta#1 18
+    400220: TeclaPreta#1 19
+    400222: TeclaPreta#1 2
+    400224: TeclaPreta#1 20
+    400226: TeclaPreta#1 21
+    400228: TeclaPreta#1 22
+    400230: TeclaPreta#1 23
+    400232: TeclaPreta#1 24
+    400234: TeclaPreta#1 25
+    400236: TeclaPreta#1 26
+    400238: TeclaPreta#1 27
+    400240: TeclaPreta#1 28
+    400242: TeclaPreta#1 29
+    400244: TeclaPreta#1 3
+    400246: TeclaPreta#1 30
+    400248: TeclaPreta#1 31
+    400250: TeclaPreta#1 32
+    400252: TeclaPreta#1 33
+    400254: TeclaPreta#1 34
+    400256: TeclaPreta#1 35
+    400258: TeclaPreta#1 4
+    400260: TeclaPreta#1 5
+    400262: TeclaPreta#1 6
+    400264: TeclaPreta#1 7
+    400266: TeclaPreta#1 8
+    400268: TeclaPreta#1 9
+    2300000: "Capot arri\xE8re"
+    2300002: Capot avant
+    2300004: "Diff\xE9rence"
+    2300006: Encoche pupitre
+    2300008: Encoche pupitre 1
+    2300010: Feutrine rouge
+    2300012: Flanc
+    2300014: Flanc 1
+    2300016: Group 11
+    2300018: Group 186
+    2300020: Group 190
+    2300022: Group 205
+    2300024: Group 221
+    2300026: Group 224
+    2300028: Group 226
+    2300030: Group 228
+    2300032: Group 231
+    2300034: Group 233
+    2300036: Group 235
+    2300038: Group 239
+    2300040: Group 241
+    2300042: Group 243
+    2300044: Group 245
+    2300046: Group 249
+    2300048: Group 251
+    2300050: Group 253
+    2300052: Group 255
+    2300054: Group 4
+    2300056: Group 6
+    2300058: Group 9
+    2300060: ON_OFF_LED
+    2300062: Patin
+    2300064: Patin 1
+    2300066: Patin 2
+    2300068: Patin 3
+    2300070: Socle
+    2300072: Tecla1\#1
+    2300074: Tecla1\#1 1
+    2300076: Tecla1\#1 10
+    2300078: Tecla1\#1 11
+    2300080: Tecla1\#1 12
+    2300082: Tecla1\#1 13
+    2300084: Tecla1\#1 2
+    2300086: Tecla1\#1 3
+    2300088: Tecla1\#1 4
+    2300090: Tecla1\#1 5
+    2300092: Tecla1\#1 6
+    2300094: Tecla1\#1 7
+    2300096: Tecla1\#1 8
+    2300098: Tecla1\#1 9
+    2300100: Tecla2#1
+    2300102: Tecla2#1 1
+    2300104: Tecla2#1 10
+    2300106: Tecla2#1 11
+    2300108: Tecla2#1 12
+    2300110: Tecla2#1 13
+    2300112: Tecla2#1 14
+    2300114: Tecla2#1 2
+    2300116: Tecla2#1 3
+    2300118: Tecla2#1 4
+    2300120: Tecla2#1 5
+    2300122: Tecla2#1 6
+    2300124: Tecla2#1 7
+    2300126: Tecla2#1 8
+    2300128: Tecla2#1 9
+    2300130: Tecla3#1
+    2300132: Tecla3#1 1
+    2300134: Tecla3#1 10
+    2300136: Tecla3#1 11
+    2300138: Tecla3#1 12
+    2300140: Tecla3#1 13
+    2300142: Tecla3#1 2
+    2300144: Tecla3#1 3
+    2300146: Tecla3#1 4
+    2300148: Tecla3#1 5
+    2300150: Tecla3#1 6
+    2300152: Tecla3#1 7
+    2300154: Tecla3#1 8
+    2300156: Tecla3#1 9
+    2300158: Tecla4#1
+    2300160: Tecla4#1 1
+    2300162: Tecla4#1 2
+    2300164: Tecla4#1 3
+    2300166: Tecla4#1 4
+    2300168: Tecla4#1 5
+    2300170: Tecla4#1 6
+    2300172: TeclaPreta#1
+    2300174: TeclaPreta#1 1
+    2300176: TeclaPreta#1 10
+    2300178: TeclaPreta#1 11
+    2300180: TeclaPreta#1 12
+    2300182: TeclaPreta#1 13
+    2300184: TeclaPreta#1 14
+    2300186: TeclaPreta#1 15
+    2300188: TeclaPreta#1 16
+    2300190: TeclaPreta#1 17
+    2300192: TeclaPreta#1 18
+    2300194: TeclaPreta#1 19
+    2300196: TeclaPreta#1 2
+    2300198: TeclaPreta#1 20
+    2300200: TeclaPreta#1 21
+    2300202: TeclaPreta#1 22
+    2300204: TeclaPreta#1 23
+    2300206: TeclaPreta#1 24
+    2300208: TeclaPreta#1 25
+    2300210: TeclaPreta#1 26
+    2300212: TeclaPreta#1 27
+    2300214: TeclaPreta#1 28
+    2300216: TeclaPreta#1 29
+    2300218: TeclaPreta#1 3
+    2300220: TeclaPreta#1 30
+    2300222: TeclaPreta#1 31
+    2300224: TeclaPreta#1 32
+    2300226: TeclaPreta#1 33
+    2300228: TeclaPreta#1 34
+    2300230: TeclaPreta#1 35
+    2300232: TeclaPreta#1 4
+    2300234: TeclaPreta#1 5
+    2300236: TeclaPreta#1 6
+    2300238: TeclaPreta#1 7
+    2300240: TeclaPreta#1 8
+    2300242: TeclaPreta#1 9
+    3300000: "Capot arri\xE8re"
+    3300002: Capot avant
+    3300004: "Diff\xE9rence"
+    3300006: Encoche pupitre
+    3300008: Encoche pupitre 1
+    3300010: Feutrine rouge
+    3300012: Flanc
+    3300014: Flanc 1
+    3300016: Group 11
+    3300018: Group 186
+    3300020: Group 190
+    3300022: Group 205
+    3300024: Group 221
+    3300026: Group 224
+    3300028: Group 226
+    3300030: Group 228
+    3300032: Group 231
+    3300034: Group 233
+    3300036: Group 235
+    3300038: Group 239
+    3300040: Group 241
+    3300042: Group 243
+    3300044: Group 245
+    3300046: Group 249
+    3300048: Group 251
+    3300050: Group 253
+    3300052: Group 255
+    3300054: Group 4
+    3300056: Group 6
+    3300058: Group 9
+    3300060: ON_OFF_LED
+    3300062: Patin
+    3300064: Patin 1
+    3300066: Patin 2
+    3300068: Patin 3
+    3300070: Socle
+    3300072: Tecla1\#1
+    3300074: Tecla1\#1 1
+    3300076: Tecla1\#1 10
+    3300078: Tecla1\#1 11
+    3300080: Tecla1\#1 12
+    3300082: Tecla1\#1 13
+    3300084: Tecla1\#1 2
+    3300086: Tecla1\#1 3
+    3300088: Tecla1\#1 4
+    3300090: Tecla1\#1 5
+    3300092: Tecla1\#1 6
+    3300094: Tecla1\#1 7
+    3300096: Tecla1\#1 8
+    3300098: Tecla1\#1 9
+    3300100: Tecla2#1
+    3300102: Tecla2#1 1
+    3300104: Tecla2#1 10
+    3300106: Tecla2#1 11
+    3300108: Tecla2#1 12
+    3300110: Tecla2#1 13
+    3300112: Tecla2#1 14
+    3300114: Tecla2#1 2
+    3300116: Tecla2#1 3
+    3300118: Tecla2#1 4
+    3300120: Tecla2#1 5
+    3300122: Tecla2#1 6
+    3300124: Tecla2#1 7
+    3300126: Tecla2#1 8
+    3300128: Tecla2#1 9
+    3300130: Tecla3#1
+    3300132: Tecla3#1 1
+    3300134: Tecla3#1 10
+    3300136: Tecla3#1 11
+    3300138: Tecla3#1 12
+    3300140: Tecla3#1 13
+    3300142: Tecla3#1 2
+    3300144: Tecla3#1 3
+    3300146: Tecla3#1 4
+    3300148: Tecla3#1 5
+    3300150: Tecla3#1 6
+    3300152: Tecla3#1 7
+    3300154: Tecla3#1 8
+    3300156: Tecla3#1 9
+    3300158: Tecla4#1
+    3300160: Tecla4#1 1
+    3300162: Tecla4#1 2
+    3300164: Tecla4#1 3
+    3300166: Tecla4#1 4
+    3300168: Tecla4#1 5
+    3300170: Tecla4#1 6
+    3300172: TeclaPreta#1
+    3300174: TeclaPreta#1 1
+    3300176: TeclaPreta#1 10
+    3300178: TeclaPreta#1 11
+    3300180: TeclaPreta#1 12
+    3300182: TeclaPreta#1 13
+    3300184: TeclaPreta#1 14
+    3300186: TeclaPreta#1 15
+    3300188: TeclaPreta#1 16
+    3300190: TeclaPreta#1 17
+    3300192: TeclaPreta#1 18
+    3300194: TeclaPreta#1 19
+    3300196: TeclaPreta#1 2
+    3300198: TeclaPreta#1 20
+    3300200: TeclaPreta#1 21
+    3300202: TeclaPreta#1 22
+    3300204: TeclaPreta#1 23
+    3300206: TeclaPreta#1 24
+    3300208: TeclaPreta#1 25
+    3300210: TeclaPreta#1 26
+    3300212: TeclaPreta#1 27
+    3300214: TeclaPreta#1 28
+    3300216: TeclaPreta#1 29
+    3300218: TeclaPreta#1 3
+    3300220: TeclaPreta#1 30
+    3300222: TeclaPreta#1 31
+    3300224: TeclaPreta#1 32
+    3300226: TeclaPreta#1 33
+    3300228: TeclaPreta#1 34
+    3300230: TeclaPreta#1 35
+    3300232: TeclaPreta#1 4
+    3300234: TeclaPreta#1 5
+    3300236: TeclaPreta#1 6
+    3300238: TeclaPreta#1 7
+    3300240: TeclaPreta#1 8
+    3300242: TeclaPreta#1 9
+    4300000: Mesh Capot avant
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh TeclaPreta#1
+    4300012: Mesh Tecla2#1
+    4300014: Mesh Tecla3#1
+    4300016: Mesh Tecla4#1
+    4300018: Mesh Tecla1\#1
+    4300020: Mesh Group 186
+    4300022: "Mesh Diff\xE9rence"
+    4300024: Mesh Group 190
+    4300026: Mesh ON_OFF_LED
+    4300028: "Mesh Capot arri\xE8re"
+    4300030: Mesh Feutrine rouge
+    4300032: Mesh Socle
+    4300034: Mesh Encoche pupitre
+    4300036: Mesh Group 205
+    4300038: Mesh Patin
+    4300040: Mesh Flanc
+    4300042: Mesh Group 221
+    4300044: Mesh Group 224
+    4300046: Mesh Group 226
+    4300048: Mesh Group 239
+    4300050: Mesh Group 245
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
