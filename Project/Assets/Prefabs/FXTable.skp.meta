@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 99bec6e5a8f44ac4a9a581be43497195
+timeCreated: 1459013888
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5ae74d0d3f5f1242cdd4b46638dce63e
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.048067037, y: 1.2835175, z: 1.8285918}
+      lookAt: {x: 0.5387338, y: 0.38837656, z: 0.32605612}
+      up: {x: 0.15297355, y: 0.8701509, z: -0.46844056}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1/4" Female Audio Jack#1
+    100002: CDJ350
+    100004: CDJ350 1
+    100006: DJM350
+    100008: //RootNode
+    100010: Group 1
+    100012: Group 11
+    100014: Group 3
+    100016: Group 4
+    100018: Group 9
+    100020: piano_leg
+    100022: piano_leg 1
+    400000: 1/4" Female Audio Jack#1
+    400002: CDJ350
+    400004: CDJ350 1
+    400006: DJM350
+    400008: //RootNode
+    400010: Group 1
+    400012: Group 11
+    400014: Group 3
+    400016: Group 4
+    400018: Group 9
+    400020: piano_leg
+    400022: piano_leg 1
+    2300000: 1/4" Female Audio Jack#1
+    2300002: CDJ350
+    2300004: CDJ350 1
+    2300006: DJM350
+    2300008: Group 1
+    2300010: Group 9
+    2300012: piano_leg
+    2300014: piano_leg 1
+    3300000: 1/4" Female Audio Jack#1
+    3300002: CDJ350
+    3300004: CDJ350 1
+    3300006: DJM350
+    3300008: Group 1
+    3300010: Group 9
+    3300012: piano_leg
+    3300014: piano_leg 1
+    4300000: Mesh Group 1
+    4300002: Mesh piano_leg
+    4300004: Mesh Group 9
+    4300006: Mesh DJM350
+    4300008: Mesh 1/4" Female Audio Jack#1
+    4300010: Mesh CDJ350
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
