@@ -23,7 +23,8 @@ public class Movement : MonoBehaviour {
     
     void OnCollisionExit(Collision other)
     {
-        colliding = false;
+        if(jumping)
+            colliding = false;
     }
 	
 	// Update is called once per frame
@@ -35,17 +36,17 @@ public class Movement : MonoBehaviour {
         {
             jumping = false;
             GetComponent<Rigidbody>().useGravity = false;
-            GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
+            //GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
         }
         else
         {
             GetComponent<Rigidbody>().useGravity = true;
-            GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionY | RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
+            //GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionY | RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
         }
 
         if(Input.GetKey(KeyCode.Space) && freeCam)
         {
-            transform.Translate(0, 3 * Time.deltaTime, 0);
+            transform.Translate(0, 5 * Time.deltaTime, 0);
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && !jumping && !freeCam)
@@ -53,18 +54,18 @@ public class Movement : MonoBehaviour {
             jumping = true;
             holdTime = Time.time;
         }
-        if(jumping && Time.time - holdTime < 1)
+        if(jumping && Time.time - holdTime < .4)
         {
-            transform.Translate(0, 3 * Time.deltaTime, 0);
+            transform.Translate(0, 6 * Time.deltaTime, 0);
         }
         else
         {
             jumping = false;
         }
-        if(!jumping && !colliding && !freeCam)
-        {
-            transform.Translate(0, -3 * Time.deltaTime, 0);
-        }
+        //if(!jumping && !colliding && !freeCam)
+        //{
+        //    transform.Translate(0, -3 * Time.deltaTime, 0);
+        //}
 
         float transForward = Input.GetAxis("Vertical");
         float transSide = Input.GetAxis("Horizontal");
@@ -86,6 +87,6 @@ public class Movement : MonoBehaviour {
         else
             transform.position += speed * transForward * head.Gaze.direction * Time.deltaTime;
 
-        transform.position += speed * dir * Time.deltaTime;
+        transform.position += speed * .5f * dir * Time.deltaTime;
     }
 }
