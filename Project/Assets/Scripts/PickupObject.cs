@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityStandardAssets.CrossPlatformInput;
+
 
 public class PickupObject : MonoBehaviour {
 	GameObject mainCamera;
@@ -27,7 +27,7 @@ public class PickupObject : MonoBehaviour {
 
     void playPause()
 	{
-		if(CrossPlatformInputManager.GetButtonDown("Fire2")) 
+		if(Input.GetButtonDown("Fire2")) 
         {
             int x = Screen.width / 2;
             int y = Screen.height / 2;
@@ -77,6 +77,7 @@ public class PickupObject : MonoBehaviour {
 	}
 
 	void checkDrop() {
+		
 		if(Input.GetButtonDown("Fire1")) {
 			dropObject();
 
