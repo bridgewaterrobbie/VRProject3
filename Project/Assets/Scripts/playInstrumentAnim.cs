@@ -5,6 +5,8 @@ public class playInstrumentAnim : MonoBehaviour {
 
 	public GameObject theInstrument;
 
+	//blah blah blah
+
 	// Use this for initialization
 	void Start () {
 	
