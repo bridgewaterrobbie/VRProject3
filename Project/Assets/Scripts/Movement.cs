@@ -29,7 +29,7 @@ public class Movement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKeyDown(KeyCode.F))
+		if (Input.GetButton("Submit"))
             freeCam = !freeCam;
 
         if (freeCam)
@@ -49,7 +49,7 @@ public class Movement : MonoBehaviour {
             transform.Translate(0, 5 * Time.deltaTime, 0);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && !jumping && !freeCam)
+		if (Input.GetButton("Fire3") && !jumping && !freeCam)
         {
             jumping = true;
             holdTime = Time.time;
