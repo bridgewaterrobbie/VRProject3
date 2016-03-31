@@ -44,7 +44,7 @@ public class Movement : MonoBehaviour {
             //GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezePositionY | RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
         }
 
-        if(Input.GetKey(KeyCode.Space) && freeCam)
+		if(Input.GetButton("Jump") && freeCam)
         {
             transform.Translate(0, 5 * Time.deltaTime, 0);
         }
